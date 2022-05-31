@@ -1,0 +1,56 @@
+
+
+
+body {
+    background-color: black;
+    margin: 5px;
+    text-align: center;
+    color: white;
+}
+.intro {
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+.firstwordbunch {
+    background-color: white;
+    color: black;
+    margin: 15px;
+    text-align: center;
+}
+
+
+.wisequote { 
+    background-color: black;
+    color: white;
+    margin: 5px;
+    text-align:center;
+}
+
+
+button{
+    background-color: grey;
+    text-align: center;
+    margin: 5px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.radio{
+    background-color: grey;
+    text-align: center;
+    margin: 5px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+
+
